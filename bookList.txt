@@ -1,0 +1,11 @@
+1001,Dune,Frank Herbert, GoodRead publications, 500,10
+1002 ,Ender's Game,Orson Scott Card,GoodRead publications, 500,10
+1003,Hitchhiker's Guide to the Galaxy  #1, Douglas Adams, 1500,250
+1004, Three Mistakes of My Life, Chetan Bhagat, Rupa Publication,550,300
+1005, Java The Complete Reference, Herbert Schildt , Mc Graw Hill,3500,250
+1006, C++ The Complete Reference , Herbert Schildt, McGraw Hill,3500,250
+1007, Database Management System, Henery F Korth,McGraw Hill,3500,250
+1008, 1984, George Orwell, GoodRead publications,1500,20
+1009, 2001: A Space Odyssey (Space Odyssey, #1),Arthur C. Clarke,GoodRead publications,1500,45
+1010,Slaughterhouse-Five,Kurt Vonnegut Jr.,GoodRead publications,1400,75
+1011,I, Robot (Robot, #0.1),Isaac Asimov,GoodRead publications,1400,50
