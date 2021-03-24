@@ -12,7 +12,7 @@ public class ViewBooksHelper {
 		DbmsHelper.init();
 		String addQuery="SELECT * FROM librarymanagementjava.books;";
 		System.out.println(DbmsHelper.con);
-		String s="The Books are "+"\n";
+		String s="The Books are (in the format Accession Number , Title, Author, Publisher's Name , No. of copies available ) : "+"\n";
 		try {
 			ResultSet rs=DbmsHelper.stmt.executeQuery(addQuery);
 		
